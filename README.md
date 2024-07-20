@@ -22,3 +22,5 @@ javascript:(function(d){let f=`BeatSaverAlerts${new Date().toLocaleString()}`,s=
 7. PlaylistManagerが自動的に不足する譜面をダウンロードしてくれます。
 
     ![image](https://github.com/user-attachments/assets/abee2438-e2d8-4583-93a7-8073343b11e7)
+
+※李昊(misterlihao)さんの[Alertsのリストにdownloadボタンを追加するブックマークレット](https://x.com/misterlihao/status/1814543927762169927)を参考にさせて頂きました。こちらも便利なのでぜひ使って見ましょう。
