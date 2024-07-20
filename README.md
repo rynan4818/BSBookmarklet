@@ -24,3 +24,6 @@ javascript:(function(d){let f=`BeatSaverAlerts${new Date().toLocaleString()}`,s=
     ![image](https://github.com/user-attachments/assets/abee2438-e2d8-4583-93a7-8073343b11e7)
 
 ※李昊(misterlihao)さんの[Alertsのリストにdownloadボタンを追加するブックマークレット](https://x.com/misterlihao/status/1814543927762169927)を参考にさせて頂きました。こちらも便利なのでぜひ使って見ましょう。
+
+## [bsr,beatsaver検索ブックマークレット](https://docs.google.com/document/d/1iqraopptZzW_y9I3TJo076GYlQ6PLYbzqduI66vhS74/edit?usp=sharing)
+選択もしくは入力されたbsrのbeatsaverの譜面ページに飛ぶブックマークレットです。上記リンク先に説明があります。
