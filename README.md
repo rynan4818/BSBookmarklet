@@ -1,0 +1,2 @@
+# BSBookmarklet
+BeatSaberのWebサイトで使えるブックマークレット
